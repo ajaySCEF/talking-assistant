@@ -1,12 +1,12 @@
 ***************************************************************
 *                                                             *
-*                           Sumit Tyagi                       *
+*                       Ajay Kumar Poonia                     *
 *                                                             *
 *              Voice Assistant Using OpenAI and Pygame        *
 *                                                             *
 ***************************************************************
 
-This project implements a voice assistant named Sumit that can perform various tasks such as opening websites, playing music, and fetching news headlines. The assistant uses OpenAI's GPT-3.5 model for handling general queries and responses.
+This project implements a voice assistant named Ajay that can perform various tasks such as opening websites, playing music, and fetching news headlines. The assistant uses OpenAI's GPT-3.5 model for handling general queries and responses.
 
 **Main Script: main.py**
 
